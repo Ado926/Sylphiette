@@ -63,8 +63,6 @@ const defaultMenu = {
   
 %sbot
   
-\`🌱 ¿Some command has error? ¡Report it to the developer for a solution! 🦦\`
-  
   乂 \`I N F O   C M D\`
 
 \`%totalfeatures\` _Commands available for use_
@@ -74,17 +72,16 @@ const defaultMenu = {
 ≡ 🌄 \`Premium :\` 🪙
 ≡ 🌳 \`Diamond :\` 💎
 
-\`https://whatsapp.com/channel/0029Va6InNBFCCoM9xzKFG3G\`
+\`https://chat.whatsapp.com/If3WAOMJqZp2WLqDp9n4Cw\`
 
   ╭┈──────────────── ꒰ 🌺 ꒱
- │ *𖦹 ¡Remember that you can join the bot's official channel!*
-  ╰─┈➤ ‌ ${xx}Sylph - Is The Best${xx}\n
+ ${xx}Sylph - Is The Best${xx}\n
 `.trimStart(),
   header: `乂 \`%category\`\n`,
   body: `	◦  \`%cmd\` %isdiamond %isPremium\n`,
   footer: `\n`,
   after: `
-${wm} | Powered By I'm Fz ~
+${wm} | Sylphiette 💜 ~
 `,
 }
   try {
