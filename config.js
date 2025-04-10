@@ -14,7 +14,7 @@ import { es } from "./lib/total-idiomas.js";
 global.botnumber = "";
 global.confirmCode = "";
 global.owner = [
-  ['5212431085732', '>\`\` I\'m Sylph ~', true],
+  ['50493732693', '>\`\` I\'m Sylph ~', true],
   ['5212431268546', '>\` I\'m Fz ~', true]
 ];
 global.colabs = [
