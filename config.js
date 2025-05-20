@@ -36,10 +36,10 @@ global.APIKeys = {
 };
 
 // Sticker WM
-global.packname = 'Sylph | Bot - Multi Device';
-global.footer = "тнe вeѕт wнaтѕapp вy ι'м ғz";
-global.author = `I'm Fz ~`;
-global.wm = '┊ꦿ🎄⿻ Sylph | Wa Bot❜ೃ';
+global.packname = '✦ Aᴛʜᴇʀɪᴀ | Bᴏᴛ - Mᴜʟᴛɪ Dᴇᴠɪᴄᴇ ✦';
+global.footer = "✦ ᴛʜᴇ ʙᴇsᴛ ᴡʜᴀᴛsᴀᴘᴘ ʙᴏᴛ ʙʏ Wɪʀᴋ ✦";
+global.author = 'Wɪʀᴋ ~';
+global.wm = '┊ꦿ✨⿻ Aᴛʜᴇʀɪᴀ | Wᴀ Bᴏᴛ ❜ೃ';
 
 global.insta = 'https://www.instagram.com/';
 
